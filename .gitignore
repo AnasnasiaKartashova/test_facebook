@@ -1,0 +1,11 @@
+*.pyc
+*.DS_Store
+*.egg*
+/dist/
+/.idea
+env
+__pycache__/
+env/
+venv/
+.env
+
